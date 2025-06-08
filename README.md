@@ -20,9 +20,14 @@ Il utilise la bibliothèque `discord.js` pour interagir avec l'API de Discord.
 > L’automatisation de messages peut enfreindre les conditions d’utilisation de Discord.  
 > Utilisez-le de manière responsable et à vos propres risques.
 
+
+
 ---
 
 ## 💻 Prérequis / Prerequisites
 
 - Node.js installé sur votre machine (https://nodejs.org/)  
 - Un terminal (ex : CMD, PowerShell, Terminal macOS/Linux)
+
+
+© 2025 - Script developed by 0ign1on 🧅. All rights reserved.
